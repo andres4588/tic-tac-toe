@@ -1,1 +1,1 @@
-# tic-tac-toe
+Aplicacion en React Tic-Tac-Toe
